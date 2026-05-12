@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.png" alt="Iris Flower Classification Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/your-username/iris-flower-classification/main/banner.png" alt="Iris Flower Classification Banner" width="100%" />
 </p>
+
 
 # 🌸 Iris Flower Classification – 3D Visualization
 
@@ -28,13 +29,14 @@ This project demonstrates:
 
 ---
 
-[https://img.shields.io/badge/Python-3.9%2B-blue
-https://img.shields.io/badge/scikit--learn-ML-orange
-https://img.shields.io/badge/Matplotlib-Visualization-green
-https://img.shields.io/badge/Status-Active-success](https://img.shields.io/badge/Python-3.9%2B-blue  
-https://img.shields.io/badge/scikit--learn-ML-orange  
-https://img.shields.io/badge/Matplotlib-Visualization-green  
-https://img.shields.io/badge/Status-Active-success)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+
+## 🔍 Explore Interactive 3D Plot
+[Click here to view the interactive 3D scatter plot](https://Divyanshi12coder.github.io/iris-flower-classification/plot.html)
 
 
 ## ⚙️ Installation
