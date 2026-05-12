@@ -42,3 +42,16 @@ venv\Scripts\activate      # On Windows
 
 # Install dependencies
 pip install -r requirements.txt
+
+📊 Usage
+bash
+# Run the main script
+python iris_classification.py
+Outputs:
+
+Model accuracy on test set
+
+Confusion matrix
+
+3D scatter plot of features colored by species
+
