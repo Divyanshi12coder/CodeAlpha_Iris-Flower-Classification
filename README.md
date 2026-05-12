@@ -28,6 +28,12 @@ This project demonstrates:
 
 ---
 
+https://img.shields.io/badge/Python-3.9%2B-blue
+https://img.shields.io/badge/scikit--learn-ML-orange
+https://img.shields.io/badge/Matplotlib-Visualization-green
+https://img.shields.io/badge/Status-Active-success
+
+
 ## ⚙️ Installation
 
 ```bash
