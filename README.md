@@ -40,9 +40,8 @@ This project demonstrates:
 
 ## Deployment Link
 www.datazenix.site
-flower-oracle
-.lovable.app
 
+https://flower-oracle.lovable.app/
 
 
 ## ⚙️ Installation
