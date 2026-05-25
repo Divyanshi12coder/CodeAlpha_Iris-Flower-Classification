@@ -41,6 +41,10 @@ This project demonstrates:
 ## Deployment Link
 www.datazenix.site
 
+## View Site
+flower-oracle
+.lovable.app
+
 ## ⚙️ Installation
 
 ```bash
