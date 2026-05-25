@@ -38,6 +38,8 @@ This project demonstrates:
 ## 🔍 Explore Interactive 3D Plot
 [Click here to view the interactive 3D scatter plot](https://Divyanshi12coder.github.io/iris-flower-classification/plot.html)
 
+## Deployment Link
+www.datazenix.site
 
 ## ⚙️ Installation
 
@@ -67,6 +69,3 @@ Confusion matrix
 3D scatter plot of features colored by species
 
 
-## Deployment Link www.datazenix.site
-
-------------
