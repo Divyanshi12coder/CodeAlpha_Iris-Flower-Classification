@@ -41,9 +41,8 @@ This project demonstrates:
 ## Deployment Link
 www.datazenix.site
 
-## View Site
-flower-oracle
-.lovable.app
+## View Site Link
+flower-oracle.lovable.app
 
 ## ⚙️ Installation
 
